@@ -1,0 +1,5 @@
+
+1 x ^( 5 ) x 5 
+1 0 ^( 2 ) x d x other_class 
+1 2 ^( x ) other_class 9 ^( x ) d x x 
+1 other_class ^( LBracket 2 plus ) x ^( x RBracket 3 ) d x other_class 
