@@ -13,8 +13,8 @@ import time
 import detectFormula
 import detectSymb
 
-#bot = telebot.TeleBot('5830290243:AAENrJlShqlBShLM-MqSXGFZJEBp4DnYzag');
-bot = telebot.TeleBot('6172170279:AAEgYEKmyWZxIBfvvASYdUZj-nKKI9BYyrg');
+
+bot = telebot.TeleBot('TOKEN');
 def translate(word):
 	u = word.split()
 	x = {'mult': '*', 'div': '/', 'minus': '-', 'plus': '+', 'eqv': '=', 'LBracket': '(', 'RBracket': ')', 'integ': chr(8747), 'other_class': ""};
